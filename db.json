@@ -19,7 +19,7 @@
             "quick_messages": "['Evet','Hayır']"
         },
         {
-            "message": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "message": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
             "sound": "0",
             "sound_time": null,
             "gestures": "0",
