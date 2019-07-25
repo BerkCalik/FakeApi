@@ -16,7 +16,7 @@
             "gestures": "0",
             "action": "input_disabled",
             "action_value": null,
-            "quick_messages": "[\"Evet\",\"Hayır\"]"
+            "quick_messages": ["Evet", "Hayır"]
         },
         {
             "message": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
