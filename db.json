@@ -1,14 +1,40 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "messages": [
+        {
+            "message": "PEG girişinde akıntı olduğunu belirttiniz. ",
+            "sound": "0",
+            "sound_time": null,
+            "gestures": "0",
+            "action": null,
+            "action_value": null,
+            "quick_messages": null
+        },
+        {
+            "message": "Onaylıyor musuz ?",
+            "sound": "0",
+            "sound_time": null,
+            "gestures": "0",
+            "action": "input_disabled",
+            "action_value": null,
+            "quick_messages": "['Evet','Hayır']"
+        },
+        {
+            "message": "https://www.youtube.com/watch?v=gkime9M4z34",
+            "sound": "0",
+            "sound_time": null,
+            "gestures": "0",
+            "action": "video",
+            "action_value": null,
+            "quick_messages": null
+        },
+        {
+            "message": "https://indigodergisi.com/wp-content/uploads/2017/05/1494118823_EpilepsiveBen_6_11Ya_____kincisi__Berat___pek-e1494238706926.jpg",
+            "sound": "0",
+            "sound_time": null,
+            "gestures": "0",
+            "action": "image",
+            "action_value": null,
+            "quick_messages": null
+        }
+    ]
 }
